@@ -1,7 +1,7 @@
 #  NewsFlow – US News Web App
 
 ##  Overview
-*NewsFlow* is a responsive news website built using *ReactJS* and *NewsAPI. It provides the latest top headlines from various categories like **Business, Entertainment, Health, Science, Sports, and Technology* – specifically from the *United States*.
+*NewsFlow* is a responsive news website built using *ReactJS* and *NewsAPI*. It provides the latest top headlines from various categories like *Business, Entertainment, Health, Science, Sports, and Technology* – specifically from the *United States*.
 
 ---
 
