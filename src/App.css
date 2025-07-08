@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+ .dark-mode {
+  margin: 0;
+  padding: 0;
+  background-color: #121212;
+  color: white;
+}
+
+.dark-mode .card {
+  background-color: #1e1e1e;
+  color: white;
+}
+
+.dark-mode .navbar {
+  background-color: #000 ;
+}
+.app-wrapper {
+min-height: 100vh;
+margin: 0;
+padding: 0;
+}
+h1 {
+  margin-top: 20px ;
+  border-top: none ;
+  padding-top: 0 ;
+}
+
+.navbar {
+  margin-bottom: 0 ;
+  border-bottom: none ;
+}
+
+.card-title {
+  height: 40px; 
+  overflow: hidden;
+}
+
+.card-text {
+  height: 40px;
+  overflow: hidden;
+}
